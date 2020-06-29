@@ -1,0 +1,8 @@
+E:\Personal Data\GIT_personal\singletondesignpattern\Singleton\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Personal Data\GIT_personal\singletondesignpattern\Singleton\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Personal Data\GIT_personal\singletondesignpattern\Singleton\ClassLibrary1\bin\Debug\xunit.abstractions.dll
+E:\Personal Data\GIT_personal\singletondesignpattern\Singleton\ClassLibrary1\bin\Debug\xunit.abstractions.xml
+E:\Personal Data\GIT_personal\singletondesignpattern\Singleton\ClassLibrary1\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+E:\Personal Data\GIT_personal\singletondesignpattern\Singleton\ClassLibrary1\obj\Debug\SingletonPattern.csproj.CopyComplete
+E:\Personal Data\GIT_personal\singletondesignpattern\Singleton\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Personal Data\GIT_personal\singletondesignpattern\Singleton\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
